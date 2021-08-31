@@ -5,7 +5,7 @@ console.log(Number.MIN_SAFE_INTEGER) - ^
 
 
 // Exercise 2: why does this throw an error? How can you fix it?
-3 + 4 + 1n //diferente number system 
+3 + 4 + 1n //different number system 
 
 // Exercise 3: Clean up this code using optional chaining
 let will_pokemon = {
